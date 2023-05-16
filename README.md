@@ -17,3 +17,6 @@
 
 
 # Contributions are Welcome!
+- Fork the Repository
+- Make changes
+- Push it into new branch
